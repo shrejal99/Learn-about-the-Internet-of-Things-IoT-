@@ -3,7 +3,7 @@
  <img src="" width=300px>
 </p>
 
-<h1 align="center"> Learn How to Manage Finance </h1>
+<h1 align="center"> Learn about the Internet of Things (IoT) </h1>
 
 ## What is internet of things (IoT)?
 he internet of things, or IoT, is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers (UIDs) and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.
