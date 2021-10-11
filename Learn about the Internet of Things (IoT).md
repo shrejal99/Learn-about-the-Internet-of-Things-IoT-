@@ -93,6 +93,10 @@ Hackers aren't the only threat to the internet of things; privacy is another maj
 
 Beyond leaking personal data, IoT poses a risk to critical infrastructure, including electricity, transportation and inancial services.
 
+# Conclusion
+
+In conclusion, Internet of Things is the concept in which the virtual world of information technology connected to the real world of things. The technologies of Internet of things such as RFID and Sensor make our life become better and more comfortable.
+
 ## Contributors 
 - Shrejal 
 - aaquib ali 
