@@ -1,6 +1,6 @@
 
 <P align="center">
- <img src="" width=300px>
+ <img src="https://user-images.githubusercontent.com/84700316/136800031-88753054-c329-46ab-9fd9-cf0b3ae3985c.png" width=300px>
 </p>
 
 <h1 align="center"> Learn about the Internet of Things (IoT) </h1>
@@ -98,3 +98,5 @@ Beyond leaking personal data, IoT poses a risk to critical infrastructure, inclu
 - aaquib ali 
 - Ruthvik 
 - Ekta Arora
+
+## Made with 🎈 
